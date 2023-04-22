@@ -3,4 +3,8 @@
     <string name="clock">Clock</string>
     <string name="exam">Exam</string>
     <string name="validate">Validate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="fragmentb">fragmentB</string>
 </resources>
