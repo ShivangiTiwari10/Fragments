@@ -7,4 +7,8 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="fragment_a">Fragment A</string>
     <string name="fragmentb">fragmentB</string>
+    <string name="food">Fruit</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signin_or_order">SignIn or order</string>
 </resources>
